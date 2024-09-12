@@ -7,3 +7,6 @@ let upgradeClicker = 1;
 let clickerLevel = 1;
 let idleClicker1 = 0;
 let idleClicker2 = 0;
+
+let costOfUgradeIdle1 = 0;
+let costOfUgradeIdle2 = 0;
